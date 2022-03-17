@@ -1,0 +1,49 @@
+.title {
+}
+
+.subTitle {
+}
+
+.form {
+  background: #fff;
+  border: none;
+  width: 500px;
+  height: 25px;
+  /* padding: 100px; */
+  border-radius: 5px;
+  margin: 10px 0px;
+  color: black !important;
+}
+
+.button {
+  color: aqua;
+  background: rgb(228, 176, 176);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 50px;
+}
+
+.todo {
+  display: flex;
+  /* background: #fff; */
+  border: none;
+  border-radius: 5px;
+  justify-content: space-between;
+  width: 500px;
+  height: 25px;
+  margin-bottom: 5px;
+}
+
+.todoItem {
+  width: 85%;
+  background: #fff;
+  border-radius: 5px;
+  color: black;
+}
+
+.todoDelete {
+  width: 10%;
+  background: #fff;
+  border-radius: 5px;
+  color: black;
+}
